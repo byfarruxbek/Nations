@@ -1,0 +1,24 @@
+PASS complete catalog values and Noto Sans glyph coverage (Uzbek Latin/Cyrillic included)
+PASS uz UZ: Oʻzbekiston | Toshkent | Osiyo
+PASS uz GB: Buyuk Britaniya | London | Yevropa
+PASS uz RU: Rossiya | Moskva | Yevropa / Osiyo
+PASS uz JP: Yaponiya | Tokio | Osiyo
+PASS uz BR: Braziliya | Brazilia | Janubiy Amerika
+PASS uz AU: Avstraliya | Kanberra | Okeaniya
+PASS uz ZA: Janubiy Afrika Respublikasi | Pretoriya · ma’muriy;Keyptaun · qonunchilik;Blumfonteyn · sud | Afrika
+PASS en UZ: Uzbekistan | Tashkent | Asia
+PASS en GB: United Kingdom | London | Europe
+PASS en RU: Russia | Moscow | Europe / Asia
+PASS en JP: Japan | Tokyo | Asia
+PASS en BR: Brazil | Brasília | South America
+PASS en AU: Australia | Canberra | Oceania
+PASS en ZA: South Africa | Pretoria · administrative;Cape Town · legislative;Bloemfontein · judicial | Africa
+PASS ru UZ: Узбекистан | Ташкент | Азия
+PASS ru GB: Великобритания | Лондон | Европа
+PASS ru RU: Россия | Москва | Европа / Азия
+PASS ru JP: Япония | Токио | Азия
+PASS ru BR: Бразилия | Бразилиа | Южная Америка
+PASS ru AU: Австралия | Канберра | Океания
+PASS ru ZA: Южно-Африканская Республика | Претория · административная;Кейптаун · законодательная;Блумфонтейн · судебная | Африка
+PASS simplified menu in all languages, close input unlock, flags, capitals and continents
+Portrait resolution: 1080x1920. Physical Android touch not tested.

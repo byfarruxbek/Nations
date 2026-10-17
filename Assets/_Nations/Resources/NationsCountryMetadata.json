@@ -1,0 +1,2676 @@
+{
+  "countries": [
+    {
+      "id": "AE",
+      "nameKey": "country.AE",
+      "flag": "Flags/ae",
+      "capitals": [
+        {
+          "key": "capital.abu_dhabi",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "AF",
+      "nameKey": "country.AF",
+      "flag": "Flags/af",
+      "capitals": [
+        {
+          "key": "capital.kabul",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "AL",
+      "nameKey": "country.AL",
+      "flag": "Flags/al",
+      "capitals": [
+        {
+          "key": "capital.tirana",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "AM",
+      "nameKey": "country.AM",
+      "flag": "Flags/am",
+      "capitals": [
+        {
+          "key": "capital.yerevan",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "AO",
+      "nameKey": "country.AO",
+      "flag": "Flags/ao",
+      "capitals": [
+        {
+          "key": "capital.luanda",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "AQ",
+      "nameKey": "country.AQ",
+      "flag": "",
+      "capitals": [],
+      "continents": [
+        "Antarctica"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "AR",
+      "nameKey": "country.AR",
+      "flag": "Flags/ar",
+      "capitals": [
+        {
+          "key": "capital.buenos_aires",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "AT",
+      "nameKey": "country.AT",
+      "flag": "Flags/at",
+      "capitals": [
+        {
+          "key": "capital.vienna",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "AU",
+      "nameKey": "country.AU",
+      "flag": "Flags/au",
+      "capitals": [
+        {
+          "key": "capital.canberra",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Oceania"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "AZ",
+      "nameKey": "country.AZ",
+      "flag": "Flags/az",
+      "capitals": [
+        {
+          "key": "capital.baku",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia",
+        "Europe"
+      ],
+      "noteKey": "note.caucasus"
+    },
+    {
+      "id": "BA",
+      "nameKey": "country.BA",
+      "flag": "Flags/ba",
+      "capitals": [
+        {
+          "key": "capital.sarajevo",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "BD",
+      "nameKey": "country.BD",
+      "flag": "Flags/bd",
+      "capitals": [
+        {
+          "key": "capital.dhaka",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "BE",
+      "nameKey": "country.BE",
+      "flag": "Flags/be",
+      "capitals": [
+        {
+          "key": "capital.brussels",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "BF",
+      "nameKey": "country.BF",
+      "flag": "Flags/bf",
+      "capitals": [
+        {
+          "key": "capital.ouagadougou",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "BG",
+      "nameKey": "country.BG",
+      "flag": "Flags/bg",
+      "capitals": [
+        {
+          "key": "capital.sofia",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "BI",
+      "nameKey": "country.BI",
+      "flag": "Flags/bi",
+      "capitals": [
+        {
+          "key": "capital.gitega",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "BJ",
+      "nameKey": "country.BJ",
+      "flag": "Flags/bj",
+      "capitals": [
+        {
+          "key": "capital.porto_novo",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "BN",
+      "nameKey": "country.BN",
+      "flag": "Flags/bn",
+      "capitals": [
+        {
+          "key": "capital.bandar_seri_begawan",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "BO",
+      "nameKey": "country.BO",
+      "flag": "Flags/bo",
+      "capitals": [
+        {
+          "key": "capital.sucre",
+          "role": "constitutional"
+        },
+        {
+          "key": "capital.la_paz",
+          "role": "government"
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "BR",
+      "nameKey": "country.BR",
+      "flag": "Flags/br",
+      "capitals": [
+        {
+          "key": "capital.brasilia",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "BS",
+      "nameKey": "country.BS",
+      "flag": "Flags/bs",
+      "capitals": [
+        {
+          "key": "capital.nassau",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "BT",
+      "nameKey": "country.BT",
+      "flag": "Flags/bt",
+      "capitals": [
+        {
+          "key": "capital.thimphu",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "BW",
+      "nameKey": "country.BW",
+      "flag": "Flags/bw",
+      "capitals": [
+        {
+          "key": "capital.gaborone",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "BY",
+      "nameKey": "country.BY",
+      "flag": "Flags/by",
+      "capitals": [
+        {
+          "key": "capital.minsk",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "BZ",
+      "nameKey": "country.BZ",
+      "flag": "Flags/bz",
+      "capitals": [
+        {
+          "key": "capital.belmopan",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "CA",
+      "nameKey": "country.CA",
+      "flag": "Flags/ca",
+      "capitals": [
+        {
+          "key": "capital.ottawa",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "CD",
+      "nameKey": "country.CD",
+      "flag": "Flags/cd",
+      "capitals": [
+        {
+          "key": "capital.kinshasa",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "CF",
+      "nameKey": "country.CF",
+      "flag": "Flags/cf",
+      "capitals": [
+        {
+          "key": "capital.bangui",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "CG",
+      "nameKey": "country.CG",
+      "flag": "Flags/cg",
+      "capitals": [
+        {
+          "key": "capital.brazzaville",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "CH",
+      "nameKey": "country.CH",
+      "flag": "Flags/ch",
+      "capitals": [
+        {
+          "key": "capital.bern",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "CI",
+      "nameKey": "country.CI",
+      "flag": "Flags/ci",
+      "capitals": [
+        {
+          "key": "capital.yamoussoukro",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "CL",
+      "nameKey": "country.CL",
+      "flag": "Flags/cl",
+      "capitals": [
+        {
+          "key": "capital.santiago",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "CM",
+      "nameKey": "country.CM",
+      "flag": "Flags/cm",
+      "capitals": [
+        {
+          "key": "capital.yaounde",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "CN",
+      "nameKey": "country.CN",
+      "flag": "Flags/cn",
+      "capitals": [
+        {
+          "key": "capital.beijing",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "CO",
+      "nameKey": "country.CO",
+      "flag": "Flags/co",
+      "capitals": [
+        {
+          "key": "capital.bogota",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "CR",
+      "nameKey": "country.CR",
+      "flag": "Flags/cr",
+      "capitals": [
+        {
+          "key": "capital.san_jose",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "CU",
+      "nameKey": "country.CU",
+      "flag": "Flags/cu",
+      "capitals": [
+        {
+          "key": "capital.havana",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "CY",
+      "nameKey": "country.CY",
+      "flag": "Flags/cy",
+      "capitals": [
+        {
+          "key": "capital.nicosia",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "CZ",
+      "nameKey": "country.CZ",
+      "flag": "Flags/cz",
+      "capitals": [
+        {
+          "key": "capital.prague",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "DE",
+      "nameKey": "country.DE",
+      "flag": "Flags/de",
+      "capitals": [
+        {
+          "key": "capital.berlin",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "DJ",
+      "nameKey": "country.DJ",
+      "flag": "Flags/dj",
+      "capitals": [
+        {
+          "key": "capital.djibouti",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "DK",
+      "nameKey": "country.DK",
+      "flag": "Flags/dk",
+      "capitals": [
+        {
+          "key": "capital.copenhagen",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "DO",
+      "nameKey": "country.DO",
+      "flag": "Flags/do",
+      "capitals": [
+        {
+          "key": "capital.santo_domingo",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "DZ",
+      "nameKey": "country.DZ",
+      "flag": "Flags/dz",
+      "capitals": [
+        {
+          "key": "capital.algiers",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "EC",
+      "nameKey": "country.EC",
+      "flag": "Flags/ec",
+      "capitals": [
+        {
+          "key": "capital.quito",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "EE",
+      "nameKey": "country.EE",
+      "flag": "Flags/ee",
+      "capitals": [
+        {
+          "key": "capital.tallinn",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "EG",
+      "nameKey": "country.EG",
+      "flag": "Flags/eg",
+      "capitals": [
+        {
+          "key": "capital.cairo",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa",
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "EH",
+      "nameKey": "country.EH",
+      "flag": "Flags/eh",
+      "capitals": [
+        {
+          "key": "capital.el_aaiun",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": "note.disputed"
+    },
+    {
+      "id": "ER",
+      "nameKey": "country.ER",
+      "flag": "Flags/er",
+      "capitals": [
+        {
+          "key": "capital.asmara",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "ES",
+      "nameKey": "country.ES",
+      "flag": "Flags/es",
+      "capitals": [
+        {
+          "key": "capital.madrid",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "ET",
+      "nameKey": "country.ET",
+      "flag": "Flags/et",
+      "capitals": [
+        {
+          "key": "capital.addis_ababa",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "FI",
+      "nameKey": "country.FI",
+      "flag": "Flags/fi",
+      "capitals": [
+        {
+          "key": "capital.helsinki",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "FJ",
+      "nameKey": "country.FJ",
+      "flag": "Flags/fj",
+      "capitals": [
+        {
+          "key": "capital.suva",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Oceania"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "FK",
+      "nameKey": "country.FK",
+      "flag": "Flags/fk",
+      "capitals": [
+        {
+          "key": "capital.stanley",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "FR",
+      "nameKey": "country.FR",
+      "flag": "Flags/fr",
+      "capitals": [
+        {
+          "key": "capital.paris",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe",
+        "South America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "GA",
+      "nameKey": "country.GA",
+      "flag": "Flags/ga",
+      "capitals": [
+        {
+          "key": "capital.libreville",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "GB",
+      "nameKey": "country.GB",
+      "flag": "Flags/gb",
+      "capitals": [
+        {
+          "key": "capital.london",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "GE",
+      "nameKey": "country.GE",
+      "flag": "Flags/ge",
+      "capitals": [
+        {
+          "key": "capital.tbilisi",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia",
+        "Europe"
+      ],
+      "noteKey": "note.caucasus"
+    },
+    {
+      "id": "GH",
+      "nameKey": "country.GH",
+      "flag": "Flags/gh",
+      "capitals": [
+        {
+          "key": "capital.accra",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "GL",
+      "nameKey": "country.GL",
+      "flag": "Flags/gl",
+      "capitals": [
+        {
+          "key": "capital.nuuk",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "GM",
+      "nameKey": "country.GM",
+      "flag": "Flags/gm",
+      "capitals": [
+        {
+          "key": "capital.banjul",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "GN",
+      "nameKey": "country.GN",
+      "flag": "Flags/gn",
+      "capitals": [
+        {
+          "key": "capital.conakry",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "GQ",
+      "nameKey": "country.GQ",
+      "flag": "Flags/gq",
+      "capitals": [
+        {
+          "key": "capital.malabo",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "GR",
+      "nameKey": "country.GR",
+      "flag": "Flags/gr",
+      "capitals": [
+        {
+          "key": "capital.athens",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "GT",
+      "nameKey": "country.GT",
+      "flag": "Flags/gt",
+      "capitals": [
+        {
+          "key": "capital.guatemala_city",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "GW",
+      "nameKey": "country.GW",
+      "flag": "Flags/gw",
+      "capitals": [
+        {
+          "key": "capital.bissau",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "GY",
+      "nameKey": "country.GY",
+      "flag": "Flags/gy",
+      "capitals": [
+        {
+          "key": "capital.georgetown",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "HN",
+      "nameKey": "country.HN",
+      "flag": "Flags/hn",
+      "capitals": [
+        {
+          "key": "capital.tegucigalpa",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "HR",
+      "nameKey": "country.HR",
+      "flag": "Flags/hr",
+      "capitals": [
+        {
+          "key": "capital.zagreb",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "HT",
+      "nameKey": "country.HT",
+      "flag": "Flags/ht",
+      "capitals": [
+        {
+          "key": "capital.port_au_prince",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "HU",
+      "nameKey": "country.HU",
+      "flag": "Flags/hu",
+      "capitals": [
+        {
+          "key": "capital.budapest",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "ID",
+      "nameKey": "country.ID",
+      "flag": "Flags/id",
+      "capitals": [
+        {
+          "key": "capital.jakarta",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia",
+        "Oceania"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "IE",
+      "nameKey": "country.IE",
+      "flag": "Flags/ie",
+      "capitals": [
+        {
+          "key": "capital.dublin",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "IL",
+      "nameKey": "country.IL",
+      "flag": "Flags/il",
+      "capitals": [
+        {
+          "key": "capital.jerusalem",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "IN",
+      "nameKey": "country.IN",
+      "flag": "Flags/in",
+      "capitals": [
+        {
+          "key": "capital.new_delhi",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "IQ",
+      "nameKey": "country.IQ",
+      "flag": "Flags/iq",
+      "capitals": [
+        {
+          "key": "capital.baghdad",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "IR",
+      "nameKey": "country.IR",
+      "flag": "Flags/ir",
+      "capitals": [
+        {
+          "key": "capital.tehran",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "IS",
+      "nameKey": "country.IS",
+      "flag": "Flags/is",
+      "capitals": [
+        {
+          "key": "capital.reykjavik",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "IT",
+      "nameKey": "country.IT",
+      "flag": "Flags/it",
+      "capitals": [
+        {
+          "key": "capital.rome",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "JM",
+      "nameKey": "country.JM",
+      "flag": "Flags/jm",
+      "capitals": [
+        {
+          "key": "capital.kingston",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "JO",
+      "nameKey": "country.JO",
+      "flag": "Flags/jo",
+      "capitals": [
+        {
+          "key": "capital.amman",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "JP",
+      "nameKey": "country.JP",
+      "flag": "Flags/jp",
+      "capitals": [
+        {
+          "key": "capital.tokyo",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "KE",
+      "nameKey": "country.KE",
+      "flag": "Flags/ke",
+      "capitals": [
+        {
+          "key": "capital.nairobi",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "KG",
+      "nameKey": "country.KG",
+      "flag": "Flags/kg",
+      "capitals": [
+        {
+          "key": "capital.bishkek",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "KH",
+      "nameKey": "country.KH",
+      "flag": "Flags/kh",
+      "capitals": [
+        {
+          "key": "capital.phnom_penh",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "KP",
+      "nameKey": "country.KP",
+      "flag": "Flags/kp",
+      "capitals": [
+        {
+          "key": "capital.pyongyang",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "KR",
+      "nameKey": "country.KR",
+      "flag": "Flags/kr",
+      "capitals": [
+        {
+          "key": "capital.seoul",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "KW",
+      "nameKey": "country.KW",
+      "flag": "Flags/kw",
+      "capitals": [
+        {
+          "key": "capital.kuwait_city",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "KZ",
+      "nameKey": "country.KZ",
+      "flag": "Flags/kz",
+      "capitals": [
+        {
+          "key": "capital.astana",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia",
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "LA",
+      "nameKey": "country.LA",
+      "flag": "Flags/la",
+      "capitals": [
+        {
+          "key": "capital.vientiane",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "LB",
+      "nameKey": "country.LB",
+      "flag": "Flags/lb",
+      "capitals": [
+        {
+          "key": "capital.beirut",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "LK",
+      "nameKey": "country.LK",
+      "flag": "Flags/lk",
+      "capitals": [
+        {
+          "key": "capital.sri_jayawardenepura_kotte",
+          "role": "administrative"
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "LR",
+      "nameKey": "country.LR",
+      "flag": "Flags/lr",
+      "capitals": [
+        {
+          "key": "capital.monrovia",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "LS",
+      "nameKey": "country.LS",
+      "flag": "Flags/ls",
+      "capitals": [
+        {
+          "key": "capital.maseru",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "LT",
+      "nameKey": "country.LT",
+      "flag": "Flags/lt",
+      "capitals": [
+        {
+          "key": "capital.vilnius",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "LU",
+      "nameKey": "country.LU",
+      "flag": "Flags/lu",
+      "capitals": [
+        {
+          "key": "capital.luxembourg",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "LV",
+      "nameKey": "country.LV",
+      "flag": "Flags/lv",
+      "capitals": [
+        {
+          "key": "capital.riga",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "LY",
+      "nameKey": "country.LY",
+      "flag": "Flags/ly",
+      "capitals": [
+        {
+          "key": "capital.tripoli",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "MA",
+      "nameKey": "country.MA",
+      "flag": "Flags/ma",
+      "capitals": [
+        {
+          "key": "capital.rabat",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "MD",
+      "nameKey": "country.MD",
+      "flag": "Flags/md",
+      "capitals": [
+        {
+          "key": "capital.chisinau",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "ME",
+      "nameKey": "country.ME",
+      "flag": "Flags/me",
+      "capitals": [
+        {
+          "key": "capital.podgorica",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "MG",
+      "nameKey": "country.MG",
+      "flag": "Flags/mg",
+      "capitals": [
+        {
+          "key": "capital.antananarivo",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "MK",
+      "nameKey": "country.MK",
+      "flag": "Flags/mk",
+      "capitals": [
+        {
+          "key": "capital.skopje",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "ML",
+      "nameKey": "country.ML",
+      "flag": "Flags/ml",
+      "capitals": [
+        {
+          "key": "capital.bamako",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "MM",
+      "nameKey": "country.MM",
+      "flag": "Flags/mm",
+      "capitals": [
+        {
+          "key": "capital.naypyidaw",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "MN",
+      "nameKey": "country.MN",
+      "flag": "Flags/mn",
+      "capitals": [
+        {
+          "key": "capital.ulan_bator",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "MR",
+      "nameKey": "country.MR",
+      "flag": "Flags/mr",
+      "capitals": [
+        {
+          "key": "capital.nouakchott",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "MW",
+      "nameKey": "country.MW",
+      "flag": "Flags/mw",
+      "capitals": [
+        {
+          "key": "capital.lilongwe",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "MX",
+      "nameKey": "country.MX",
+      "flag": "Flags/mx",
+      "capitals": [
+        {
+          "key": "capital.mexico_city",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "MY",
+      "nameKey": "country.MY",
+      "flag": "Flags/my",
+      "capitals": [
+        {
+          "key": "capital.kuala_lumpur",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "MZ",
+      "nameKey": "country.MZ",
+      "flag": "Flags/mz",
+      "capitals": [
+        {
+          "key": "capital.maputo",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "NA",
+      "nameKey": "country.NA",
+      "flag": "Flags/na",
+      "capitals": [
+        {
+          "key": "capital.windhoek",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "NC",
+      "nameKey": "country.NC",
+      "flag": "Flags/nc",
+      "capitals": [
+        {
+          "key": "capital.noumea",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Oceania"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "NE",
+      "nameKey": "country.NE",
+      "flag": "Flags/ne",
+      "capitals": [
+        {
+          "key": "capital.niamey",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "NE-CYN",
+      "nameKey": "country.NE-CYN",
+      "flag": "",
+      "capitals": [],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": "note.disputed"
+    },
+    {
+      "id": "NE-SOL",
+      "nameKey": "country.NE-SOL",
+      "flag": "",
+      "capitals": [],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": "note.disputed"
+    },
+    {
+      "id": "NG",
+      "nameKey": "country.NG",
+      "flag": "Flags/ng",
+      "capitals": [
+        {
+          "key": "capital.abuja",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "NI",
+      "nameKey": "country.NI",
+      "flag": "Flags/ni",
+      "capitals": [
+        {
+          "key": "capital.managua",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "NL",
+      "nameKey": "country.NL",
+      "flag": "Flags/nl",
+      "capitals": [
+        {
+          "key": "capital.amsterdam",
+          "role": "constitutional"
+        },
+        {
+          "key": "capital.the_hague",
+          "role": "government"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "NO",
+      "nameKey": "country.NO",
+      "flag": "Flags/no",
+      "capitals": [
+        {
+          "key": "capital.oslo",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "NP",
+      "nameKey": "country.NP",
+      "flag": "Flags/np",
+      "capitals": [
+        {
+          "key": "capital.kathmandu",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "NZ",
+      "nameKey": "country.NZ",
+      "flag": "Flags/nz",
+      "capitals": [
+        {
+          "key": "capital.wellington",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Oceania"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "OM",
+      "nameKey": "country.OM",
+      "flag": "Flags/om",
+      "capitals": [
+        {
+          "key": "capital.muscat",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "PA",
+      "nameKey": "country.PA",
+      "flag": "Flags/pa",
+      "capitals": [
+        {
+          "key": "capital.panama_city",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "PE",
+      "nameKey": "country.PE",
+      "flag": "Flags/pe",
+      "capitals": [
+        {
+          "key": "capital.lima",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "PG",
+      "nameKey": "country.PG",
+      "flag": "Flags/pg",
+      "capitals": [
+        {
+          "key": "capital.port_moresby",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Oceania"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "PH",
+      "nameKey": "country.PH",
+      "flag": "Flags/ph",
+      "capitals": [
+        {
+          "key": "capital.manila",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "PK",
+      "nameKey": "country.PK",
+      "flag": "Flags/pk",
+      "capitals": [
+        {
+          "key": "capital.islamabad",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "PL",
+      "nameKey": "country.PL",
+      "flag": "Flags/pl",
+      "capitals": [
+        {
+          "key": "capital.warsaw",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "PR",
+      "nameKey": "country.PR",
+      "flag": "Flags/pr",
+      "capitals": [
+        {
+          "key": "capital.san_juan",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "PS",
+      "nameKey": "country.PS",
+      "flag": "Flags/ps",
+      "capitals": [
+        {
+          "key": "capital.east_jerusalem",
+          "role": "claimed"
+        },
+        {
+          "key": "capital.ramallah",
+          "role": "administrative"
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": "note.disputed"
+    },
+    {
+      "id": "PT",
+      "nameKey": "country.PT",
+      "flag": "Flags/pt",
+      "capitals": [
+        {
+          "key": "capital.lisbon",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "PY",
+      "nameKey": "country.PY",
+      "flag": "Flags/py",
+      "capitals": [
+        {
+          "key": "capital.asuncion",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "QA",
+      "nameKey": "country.QA",
+      "flag": "Flags/qa",
+      "capitals": [
+        {
+          "key": "capital.doha",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "RO",
+      "nameKey": "country.RO",
+      "flag": "Flags/ro",
+      "capitals": [
+        {
+          "key": "capital.bucharest",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "RS",
+      "nameKey": "country.RS",
+      "flag": "Flags/rs",
+      "capitals": [
+        {
+          "key": "capital.belgrade",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "RU",
+      "nameKey": "country.RU",
+      "flag": "Flags/ru",
+      "capitals": [
+        {
+          "key": "capital.moscow",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe",
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "RW",
+      "nameKey": "country.RW",
+      "flag": "Flags/rw",
+      "capitals": [
+        {
+          "key": "capital.kigali",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "SA",
+      "nameKey": "country.SA",
+      "flag": "Flags/sa",
+      "capitals": [
+        {
+          "key": "capital.riyadh",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "SB",
+      "nameKey": "country.SB",
+      "flag": "Flags/sb",
+      "capitals": [
+        {
+          "key": "capital.honiara",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Oceania"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "SD",
+      "nameKey": "country.SD",
+      "flag": "Flags/sd",
+      "capitals": [
+        {
+          "key": "capital.khartoum",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "SE",
+      "nameKey": "country.SE",
+      "flag": "Flags/se",
+      "capitals": [
+        {
+          "key": "capital.stockholm",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "SI",
+      "nameKey": "country.SI",
+      "flag": "Flags/si",
+      "capitals": [
+        {
+          "key": "capital.ljubljana",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "SK",
+      "nameKey": "country.SK",
+      "flag": "Flags/sk",
+      "capitals": [
+        {
+          "key": "capital.bratislava",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "SL",
+      "nameKey": "country.SL",
+      "flag": "Flags/sl",
+      "capitals": [
+        {
+          "key": "capital.freetown",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "SN",
+      "nameKey": "country.SN",
+      "flag": "Flags/sn",
+      "capitals": [
+        {
+          "key": "capital.dakar",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "SO",
+      "nameKey": "country.SO",
+      "flag": "Flags/so",
+      "capitals": [
+        {
+          "key": "capital.mogadishu",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "SR",
+      "nameKey": "country.SR",
+      "flag": "Flags/sr",
+      "capitals": [
+        {
+          "key": "capital.paramaribo",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "SS",
+      "nameKey": "country.SS",
+      "flag": "Flags/ss",
+      "capitals": [
+        {
+          "key": "capital.juba",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "SV",
+      "nameKey": "country.SV",
+      "flag": "Flags/sv",
+      "capitals": [
+        {
+          "key": "capital.san_salvador",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "SY",
+      "nameKey": "country.SY",
+      "flag": "Flags/sy",
+      "capitals": [
+        {
+          "key": "capital.damascus",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "SZ",
+      "nameKey": "country.SZ",
+      "flag": "Flags/sz",
+      "capitals": [
+        {
+          "key": "capital.mbabane",
+          "role": "administrative"
+        },
+        {
+          "key": "capital.lobamba",
+          "role": "royalLegislative"
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "TD",
+      "nameKey": "country.TD",
+      "flag": "Flags/td",
+      "capitals": [
+        {
+          "key": "capital.n'djamena",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "TF",
+      "nameKey": "country.TF",
+      "flag": "Flags/tf",
+      "capitals": [
+        {
+          "key": "capital.port_aux_francais",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Seven seas (open ocean)"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "TG",
+      "nameKey": "country.TG",
+      "flag": "Flags/tg",
+      "capitals": [
+        {
+          "key": "capital.lome",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "TH",
+      "nameKey": "country.TH",
+      "flag": "Flags/th",
+      "capitals": [
+        {
+          "key": "capital.bangkok",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "TJ",
+      "nameKey": "country.TJ",
+      "flag": "Flags/tj",
+      "capitals": [
+        {
+          "key": "capital.dushanbe",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "TL",
+      "nameKey": "country.TL",
+      "flag": "Flags/tl",
+      "capitals": [
+        {
+          "key": "capital.dili",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "TM",
+      "nameKey": "country.TM",
+      "flag": "Flags/tm",
+      "capitals": [
+        {
+          "key": "capital.ashgabat",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "TN",
+      "nameKey": "country.TN",
+      "flag": "Flags/tn",
+      "capitals": [
+        {
+          "key": "capital.tunis",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "TR",
+      "nameKey": "country.TR",
+      "flag": "Flags/tr",
+      "capitals": [
+        {
+          "key": "capital.ankara",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe",
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "TT",
+      "nameKey": "country.TT",
+      "flag": "Flags/tt",
+      "capitals": [
+        {
+          "key": "capital.port_of_spain",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "TW",
+      "nameKey": "country.TW",
+      "flag": "Flags/tw",
+      "capitals": [
+        {
+          "key": "capital.taipei",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "TZ",
+      "nameKey": "country.TZ",
+      "flag": "Flags/tz",
+      "capitals": [
+        {
+          "key": "capital.dodoma",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "UA",
+      "nameKey": "country.UA",
+      "flag": "Flags/ua",
+      "capitals": [
+        {
+          "key": "capital.kyiv",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "UG",
+      "nameKey": "country.UG",
+      "flag": "Flags/ug",
+      "capitals": [
+        {
+          "key": "capital.kampala",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "US",
+      "nameKey": "country.US",
+      "flag": "Flags/us",
+      "capitals": [
+        {
+          "key": "capital.washington_d.c.",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "UY",
+      "nameKey": "country.UY",
+      "flag": "Flags/uy",
+      "capitals": [
+        {
+          "key": "capital.montevideo",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "UZ",
+      "nameKey": "country.UZ",
+      "flag": "Flags/uz",
+      "capitals": [
+        {
+          "key": "capital.tashkent",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "VE",
+      "nameKey": "country.VE",
+      "flag": "Flags/ve",
+      "capitals": [
+        {
+          "key": "capital.caracas",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "VN",
+      "nameKey": "country.VN",
+      "flag": "Flags/vn",
+      "capitals": [
+        {
+          "key": "capital.hanoi",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "VU",
+      "nameKey": "country.VU",
+      "flag": "Flags/vu",
+      "capitals": [
+        {
+          "key": "capital.port_vila",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Oceania"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "XK",
+      "nameKey": "country.XK",
+      "flag": "Flags/xk",
+      "capitals": [
+        {
+          "key": "capital.pristina",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "noteKey": "note.disputed"
+    },
+    {
+      "id": "YE",
+      "nameKey": "country.YE",
+      "flag": "Flags/ye",
+      "capitals": [
+        {
+          "key": "capital.sana'a",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "ZA",
+      "nameKey": "country.ZA",
+      "flag": "Flags/za",
+      "capitals": [
+        {
+          "key": "capital.pretoria",
+          "role": "administrative"
+        },
+        {
+          "key": "capital.cape_town",
+          "role": "legislative"
+        },
+        {
+          "key": "capital.bloemfontein",
+          "role": "judicial"
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "ZM",
+      "nameKey": "country.ZM",
+      "flag": "Flags/zm",
+      "capitals": [
+        {
+          "key": "capital.lusaka",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    },
+    {
+      "id": "ZW",
+      "nameKey": "country.ZW",
+      "flag": "Flags/zw",
+      "capitals": [
+        {
+          "key": "capital.harare",
+          "role": ""
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "noteKey": ""
+    }
+  ]
+}

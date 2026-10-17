@@ -1,0 +1,4 @@
+PASS Input System mouse drag orbits globe
+PASS Mouse wheel zoom
+PASS Menu blocks drag and scroll from moving globe
+PASS Mouse tap selects Uzbekistan from projected WGS84 position

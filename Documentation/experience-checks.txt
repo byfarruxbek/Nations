@@ -1,0 +1,12 @@
+PASS geographic hit testing: Uzbekistan, France, Pacific Ocean
+PASS menu open/close and EventSystem hit testing
+PASS layer visibility preferences
+PASS music and SFX AudioSource playback (not human listening)
+PASS volume persistence storage; restart check separate
+PASS tileset binding, credits enabled, setup disabled
+Boundary mesh vertices=14224
+Streaming ready=True progress=100 rendered tile meshes=59
+Game view=1080x1920 safe area=(x:0.00, y:0.00, width:1080.00, height:1920.00)
+PASS simulated safe-area menu containment; real device cutout testing outstanding
+Credit safe-area binding=True
+PASS Android settings=ARM64 orientation=AutoRotation

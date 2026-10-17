@@ -1,0 +1,27 @@
+PASS: Unity Android build completed with exit code 0.
+APK: Builds/Android/NationsGlobe.apk
+Size: 48132537 bytes
+SHA256: e58c25d63b6a72453c419aa6452a34443bf0cfcff1c4af0e76e4e8637844fd56
+
+package: name='com.nations.globe' versionCode='1' versionName='1.0' platformBuildVersionName='16' platformBuildVersionCode='36' compileSdkVersion='36' compileSdkVersionCodename='16'
+sdkVersion:'26'
+targetSdkVersion:'36'
+uses-permission: name='android.permission.INTERNET'
+uses-permission: name='com.android.vending.BILLING'
+uses-permission: name='com.nations.globe.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION'
+uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
+launchable-activity: name='com.unity3d.player.UnityPlayerGameActivity'  label='' icon=''
+native-code: 'arm64-v8a'
+
+Native libraries:
+lib/arm64-v8a/libCesiumForUnityNative.so
+lib/arm64-v8a/libc++_shared.so
+lib/arm64-v8a/libgame.so
+lib/arm64-v8a/libil2cpp.so
+lib/arm64-v8a/libmain.so
+lib/arm64-v8a/libswappywrapper.so
+lib/arm64-v8a/libunity.so
+
+Original Builds/Android/Nations.apk restored byte-for-byte from its pre-build backup.
+Physical device installation and frame-rate testing were not performed.
+The BILLING permission comes from the pre-existing Unity Purchasing dependency; Phase 1 has no purchase feature.

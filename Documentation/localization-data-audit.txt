@@ -1,0 +1,6 @@
+Entities: 177
+Catalog keys: 398
+Missing capital translations using English fallback:
+None
+No capital metadata: AQ, NE-CYN, NE-SOL
+No flag artwork: AQ, NE-CYN, NE-SOL

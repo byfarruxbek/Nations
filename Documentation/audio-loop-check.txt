@@ -1,0 +1,2 @@
+Decoded Vorbis quality 0.85, stereo 48000 Hz, 3840000 frames. Seam delta=0.005798; maximum neighboring sample delta=0.027252.
+PASS seam jump within neighboring waveform slope tolerance. Technical check only; not a listening test.

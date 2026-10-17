@@ -1,0 +1,1 @@
+PASS: WGS84 surface, space/city ray precision, ray misses, pole transport, 10000-step orbit stability, Android IL2CPP/ARM64/internet, main scene.

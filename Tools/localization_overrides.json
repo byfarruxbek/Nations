@@ -1,0 +1,37 @@
+{
+  "capitalTranslations": {
+    "Abu Dhabi": ["Abu-Dabi", "Абу-Даби"], "Abuja": ["Abuja", "Абуджа"], "Ankara": ["Anqara", "Анкара"],
+    "Asmara": ["Asmara", "Асмэра"], "Astana": ["Ostona", "Астана"], "Bandar Seri Begawan": ["Bandar-Seri-Begavan", "Бандар-Сери-Бегаван"],
+    "Beijing": ["Pekin", "Пекин"], "Belmopan": ["Belmopan", "Бельмопан"], "Bern": ["Bern", "Берн"],
+    "Bloemfontein": ["Blumfonteyn", "Блумфонтейн"], "Brasília": ["Brazilia", "Бразилиа"], "Canberra": ["Kanberra", "Канберра"],
+    "Cape Town": ["Keyptaun", "Кейптаун"], "Dodoma": ["Dodoma", "Додома"], "Doha": ["Doha", "Доха"],
+    "Georgetown": ["Jorjtaun", "Джорджтаун"], "Gitega": ["Gitega", "Гитега"], "Guatemala City": ["Gvatemala", "Гватемала"],
+    "Hanoi": ["Xanoy", "Ханой"], "Honiara": ["Xoniara", "Хониара"], "Islamabad": ["Islomobod", "Исламабад"],
+    "Kathmandu": ["Katmandu", "Катманду"], "Kingston": ["Kingston", "Кингстон"], "Kuwait City": ["Al-Kuvayt", "Эль-Кувейт"],
+    "Kyiv": ["Kiyev", "Киев"], "Lilongwe": ["Lilongve", "Лилонгве"], "Lobamba": ["Lobamba", "Лобамба"],
+    "N'Djamena": ["Njamena", "Нджамена"], "Naypyidaw": ["Neypyido", "Нейпьидо"], "New Delhi": ["Yangi Dehli", "Нью-Дели"],
+    "Nuuk": ["Nuuk", "Нуук"], "Ottawa": ["Ottava", "Оттава"], "Panama City": ["Panama", "Панама"],
+    "Port Vila": ["Port-Vila", "Порт-Вила"], "Port-aux-Français": ["Port-o-Franse", "Порт-о-Франсе"],
+    "Pretoria": ["Pretoriya", "Претория"], "Pristina": ["Prishtina", "Приштина"], "Quito": ["Kito", "Кито"],
+    "Rabat": ["Rabot", "Рабат"], "Ramallah": ["Ramalloh", "Рамалла"], "San José": ["San-Xose", "Сан-Хосе"],
+    "San Salvador": ["San-Salvador", "Сан-Сальвадор"], "Sana'a": ["Sano", "Сана"], "Sucre": ["Sukre", "Сукре"],
+    "Suva": ["Suva", "Сува"], "Tirana": ["Tirana", "Тирана"], "Ulan Bator": ["Ulan-Bator", "Улан-Батор"],
+    "Washington D.C.": ["Vashington", "Вашингтон"], "Wellington": ["Vellington", "Веллингтон"],
+    "Yamoussoukro": ["Yamusukro", "Ямусукро"], "Yaoundé": ["Yaunde", "Яунде"],
+    "Sri Jayawardenepura Kotte": ["Shri-Jayavardenepura-Kotte", "Шри-Джаяварденепура-Котте"],
+    "The Hague": ["Gaaga", "Гаага"], "La Paz": ["La-Pas", "Ла-Пас"], "Mbabane": ["Mbabane", "Мбабане"],
+    "East Jerusalem": ["Sharqiy Quddus", "Восточный Иерусалим"]
+  },
+  "capitals": {
+    "ZA": [["Pretoria","administrative"],["Cape Town","legislative"],["Bloemfontein","judicial"]],
+    "BO": [["Sucre","constitutional"],["La Paz","government"]],
+    "NL": [["Amsterdam","constitutional"],["The Hague","government"]],
+    "LK": [["Sri Jayawardenepura Kotte","administrative"]],
+    "SZ": [["Mbabane","administrative"],["Lobamba","royalLegislative"]],
+    "PS": [["East Jerusalem","claimed"],["Ramallah","administrative"]]
+  },
+  "continents": {
+    "RU":["Europe","Asia"], "TR":["Europe","Asia"], "KZ":["Asia","Europe"], "EG":["Africa","Asia"],
+    "GE":["Asia","Europe"], "AZ":["Asia","Europe"], "ID":["Asia","Oceania"], "FR":["Europe","South America"]
+  }
+}

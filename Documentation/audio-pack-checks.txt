@@ -1,0 +1,5 @@
+PASS nine clip references, 80s stereo looping music, two 2D sources
+PASS menu/language continuity and Play(0..3)/specific hooks invoked; technical playback only
+PASS independent volume/mute controls; original preferences restored
+PASS imported Vorbis streaming loop wraps and continues (not a listening assessment)
+PASS first visible real-tile event reached audio; simulated failure hook/cooldown suppress duplicates; credentials unchanged

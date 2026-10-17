@@ -1,0 +1,1 @@
+PASS: Play Mode startup, center pick, drag, inertia, city zoom, geographic anchor (<1 m drift), tilt/heading, altitude limits, Input System virtual mouse drag/scroll, no runtime errors. Physical touch and streamed map data not tested.
